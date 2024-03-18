@@ -16,6 +16,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWKoOWFpeaIkeeahOmikemBk3QubWUvQ01MaXVz
 //机场信息，可多个，也可为0
 const urls = [
 	'https://sub.xf.free.hr/auto',
+	'https://woding.heqianhuaw2024.dynv6.net/woding',
 	'https://hy2sub.pages.dev',
 	// 添加更多订阅,支持base64
 ];
